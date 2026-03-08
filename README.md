@@ -13,6 +13,28 @@ from raw JSON web scraping to interactive Power BI dashboards, assisted by AI fo
 
 🤖 AI-Assisted Design — Leveraged AI tools to define KPIs, parameter scoping, and dashboard logic for each player category — Proving that AI doesn't replace the analyst, it supercharges them.
 
+🏆 Key Player Insights
+
+OPENERS
+├── Jos Buttler     → 144.23 SR | 61.33% boundary rate
+├── Rilee Rossouw   → 169.88 SR | Highest strike rate
+├── Alex Hales      → 147.22 SR | 64.15% boundary rate
+
+MIDDLE ORDER
+├── Suryakumar Yadav → 189.68 SR | Most explosive
+├── Virat Kohli      → 136.41 SR | 98.67 batting avg
+
+FINISHERS
+├── Sikandar Raza   → 10 wickets + 219 runs
+├── Glenn Maxwell   → 161.64 SR + 3 wickets
+
+ALL ROUNDERS
+├── Rashid Khan     → 6.42 economy | 18.00 bowling SR
+├── Shadab Khan     → 11 wickets | 6.35 economy
+
+FAST BOWLERS
+├── Anrich Nortje   → 5.37 economy | 55.24% dot balls
+├── Shaheen Afridi  → 11 wickets | 6.16 economy
 
 🌍 Data is no longer just numbers on a screen. It is ruling every industry, every decision, every moment. We live in an era where the most powerful competitive advantage any person, team, or organization can have is the ability to find the right insight at the right time. Data doesn't just tell you what happened — it tells you why it happened, what will happen next, and what you should do about it.
 
