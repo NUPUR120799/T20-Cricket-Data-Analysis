@@ -13,7 +13,7 @@ from raw JSON web scraping to interactive Power BI dashboards, assisted by AI fo
 
 🤖 AI-Assisted Design — Leveraged AI tools to define KPIs, parameter scoping, and dashboard logic for each player category — Proving that AI doesn't replace the analyst, it supercharges them.
 
-🏆 Key Player Insights
+🏆 Key Player Insights:
 
 OPENERS
 ├── Jos Buttler     → 144.23 SR | 61.33% boundary rate
